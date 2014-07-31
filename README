@@ -1,0 +1,5 @@
+A 9DOF Robotic arm is built and simulated in the Gazebo simulation environment.The ACH IPC is used to interface the model plugin and the control code.
+The Arm Should be controlled using the Control.py code.
+The ACH channel should be removed after each and every instance of the control code.
+The ACH channel should be cleared using the following command 'ach rm my_channel'
+
